@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Fabian Stiven Valencia Cordoba
-- 👀 I’m interested in Computer Graphics, Metaverse, XR, 3D Application development.
-- 🌱 I’m currently learning React Three Fiber
+- 👀 I’m interested in Computer Graphics,User Experience, Metaverse, XR, 3D Application development,Blender, Webgl and WebGPU.
+- ,🧑‍💻 I am currently developing the School Of System Engineering (EISC) Metaverse.
 - 📫 How to reach me: stiven.vcordoba@gmail.com
 
-<!---
-fabiansvc/fabiansvc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
