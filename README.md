@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Fabian Stiven Valencia Cordoba
-- 👀 I’m interested in Computer Graphics, Metaverse, XR, 3D Application development, Blender, Webgl.
-- 🧑‍💻 I'm currently developing the EISC Metaverse
+- 👀 I’m interested in XR Technologies, Metaverse and Computer Graphhics.
+- 🧑‍💻 I'm currently developing a Metaverse.
 - 📫 How to reach me: stiven.vcordoba@gmail.com
