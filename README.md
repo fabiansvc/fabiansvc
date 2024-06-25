@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Fabian Stiven Valencia Cordoba
-- 👀 I’m interested in XR Technologies, Metaverse and Computer Graphhics.
-- 🧑‍💻 Creator of EISC Metaverse and DomoGallery.
+- 🧑‍🏫 I'm Professor and Researcher at the Universidad del Valle 
+- 👀 I develop Web3D, Extended Reality, Metaverses and Videogames
+- 🤓 I like 3D Modeling.
+- 🧑‍💻 I developed a metaverse for my University called it "EISC Metaverse": https://eisc-metaverse.vercel.app/
 - 📫 How to reach me: stiven.vcordoba@gmail.com
