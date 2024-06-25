@@ -2,6 +2,6 @@
 - 🧑‍🏫 I'm Professor at the Universidad del Valle
 - 🧑‍💼 I'm Co-advisor and Researcher at the Camaleón Research Group
 - 👀 I develop Web3D, Extended Reality, Metaverses and Videogames
-- 🤓 I like 3D Modeling.
+- 🤓 I like 3D Modeling
 - 🧑‍💻 I developed a metaverse for my University called it "EISC Metaverse": https://eisc-metaverse.vercel.app/
 - 📫 How to reach me: stiven.vcordoba@gmail.com
