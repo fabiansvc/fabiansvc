@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Fabian Stiven Valencia Cordoba
 - 🧑‍🏫 I'm Professor at the Universidad del Valle
 - 🧑‍💼 I'm Researcher at the Camaleón Research Group
-- 👀 I develop Web3D, Extended Reality, Metaverses and Videogames
-- 🤓 I like 3D Modeling
-- 🧑‍💻 I developed a metaverse for my University called it "EISC Metaverse": https://eisc-metaverse.vercel.app/
-- 📫 How to reach me: stiven.vcordoba@gmail.com
+- 👀 I develop Web 2D/3D, Extended Reality (AR, MR, VR), Metaverses and Video games
+- 🤓 I'm 3D Modeler & UX Designer (2D/3D Prototyping)
+- 🧑‍💻 I developed a metaverse for my University called it "EISC Metaverse": https://eisc-metaverse.vercel.app
+- 🖼️ I developed DomoGallery: https://domo-gallery.vercel.app
+- 🌐 My portfolio: https://portfolio-fabian-valencia.vercel.app
+- 📫 How to reach me: fabian.cordoba@correounivalle.edu.co
