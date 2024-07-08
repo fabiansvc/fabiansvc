@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Fabian Stiven Valencia Cordoba
+- 👨‍🎓 I'm System Engineer
 - 🧑‍🏫 I'm Professor at the Universidad del Valle
 - 🧑‍💼 I'm Researcher at the Camaleón Research Group
 - 👀 I develop Web 2D/3D, Extended Reality (AR, MR, VR), Metaverses and Video games
