@@ -2,7 +2,7 @@
 - 👨‍🎓 I'm System Engineer
 - 🧑‍🏫 I'm Professor at the Universidad del Valle
 - 🧑‍💼 I'm Researcher at the Camaleón Research Group
-- 👀 I develop and teach Web 2D/3D, Extended Reality (AR, MR, VR), Metaverses and Video games
+- 👀 I develop and teach 3D Web, Extended Reality, Metaverses and Video games 
 - 🤓 I'm 3D Modeler & UX Designer (2D/3D Prototyping)
 - 🧑‍💻 I developed a metaverse for my University called it "EISC Metaverse": https://eisc-metaverse.vercel.app
 - 🖼️ I developed DomoGallery: https://domo-gallery.vercel.app
